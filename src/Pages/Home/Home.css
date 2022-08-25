@@ -1,0 +1,232 @@
+.hero-section {
+    position: relative;
+}
+
+.hero-section img {
+    position: absolute;
+}
+
+.top {
+    animation-name: fade;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
+    animation-duration: 5s;
+    animation-direction: alternate;
+}
+
+@keyframes fade {
+    0% {
+        opacity: 1;
+    }
+
+    25% {
+        opacity: 1;
+    }
+
+    75% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 0;
+    }
+}
+
+.hero-container {
+    position: relative;
+    padding: 120px 100px 0 100px;
+}
+
+.hero-container p {
+    font-size: 22px;
+    font-weight: 600;
+    color: rgb(190, 158, 97);
+}
+
+.hero-container h1 {
+    color: #ffffff;
+    width: 600px;
+    font-weight: 700;
+}
+
+.hero-container button {
+    width: 200px;
+    height: 50px;
+    font-weight: 500;
+    border: none;
+    margin-top: 30px;
+    background-color: rgb(190, 154, 88);
+    color: white;
+    border-radius: 100px;
+}
+
+/* Product-section */
+
+.product-section .section-title {
+    text-align: center;
+    margin-top: 200px;
+}
+
+.product-section .section-title p {
+    font-size: 22px;
+    font-weight: 500;
+    color: rgb(203, 140, 24);
+}
+
+.product-section .section-title h1 {
+    line-height: 30px;
+    font-weight: 500;
+    color: rgb(44, 44, 44);
+}
+
+.product-container {
+    margin: 80px 40px;
+}
+
+.scroll-to-top {
+    cursor: pointer;
+    position: fixed;
+    right: 15px;
+    bottom: 15px;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background-color: rgb(41, 41, 41);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Limited-offer-section */
+
+.limited-offer-bg {
+    height: 550px;  
+    background-image: url("../../Assets/women6.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 80px 100px;
+}
+
+.limited-offer-tagline {
+    background-color: black;
+    width: 140px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.limited-offer-tagline p {
+    line-height: 30px;
+    font-weight: 500;
+    color: rgb(255, 255, 255);
+    margin: 0;
+}
+
+.limited-offer-title {
+    margin: 30px 0;
+}
+
+.limited-offer-title p {
+    width: 580px;
+    line-height: 50px;
+    font-weight: 700;
+    color: rgb(44, 44, 44);
+    font-size: 40px;
+}
+
+.day-container,
+.hour-container,
+.min-container,
+.sec-container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: 0 30px 0 0;
+}
+
+.day, .hour, .min, .sec {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 60px;
+    height: 60px;
+    font-size: 30px;
+    font-weight: 700;
+    background-color: rgb(38, 38, 38);
+}
+
+.day p, .hour p, .min p, .sec p {
+    margin: 0;
+    color: white;
+}
+
+.title {
+    font-size: 20px;
+    font-weight: 700;
+}
+
+/* Trending-sale-section */
+
+.trending-sale-section {
+    margin-top: 100px;
+}
+
+.title-container {
+    position: absolute;
+    top: 0;
+    padding: 100px 60px;
+}
+
+.title-container :nth-child(1) {
+    font-size: 22px;
+    font-weight: 500;
+    color: whitesmoke;
+    line-height: 10px;
+}
+
+.title-container :nth-child(2) {
+    width: 330px;
+    font-size: 28px;
+    font-weight: 500;
+    color: whitesmoke;
+}
+
+.trending-sale-img {
+    width: 100%;
+    height: 350px;
+    object-fit: cover;
+}
+
+/* Blog section */
+
+.blog-section {
+    margin-top: 100px;
+}
+
+.blog-section .section-title {
+    margin-top: 0;
+    margin-bottom: 60px;
+}
+
+.blog-img {
+    width: 100%;
+    height: 350px;
+    object-fit: cover;
+    transition: 0.3s;
+    cursor: pointer;
+}
+
+.blog-img:hover {
+    filter: brightness(50%);
+}
+
+.blog-news-container {
+    margin-top: 30px;
+}
+
+.blog-news-container p {
+    font-size: 20px;
+    font-weight: 500;
+    width: 350px;
+}

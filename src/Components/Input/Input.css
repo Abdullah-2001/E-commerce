@@ -1,0 +1,9 @@
+.min-price,
+.max-price {
+    width: 100px;
+    height: 40px;
+    padding: 10px;
+    border: 1px solid rgb(199, 199, 199);
+    margin: 0 10px 0 0;
+    outline: none;
+}

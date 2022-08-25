@@ -1,0 +1,68 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Snow Grey Jacket",
+            "price": 290,
+            "category": "Jacket",
+            "description": "Jacket with an adjustable hood in the collar and long sleeves with elastic cuffs. Patch pockets with flaps and contrast taping at waist. Adjustable drawstring hem.",
+            "image": "https://www.rohnisch.com/on/demandware.static/-/Sites-rohnisch-catalog/default/dwb39d95bf/Hi-res/110306_S170_03.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Denim Light Blue Jeans",
+            "price": 250,
+            "category": "Jacket",
+            "description": "Shirt-style jacket with long sleeves and buttoned cuffs. Features a faded effect on the seams,patch pockets with flap on the chest and hips and a frayed hem.",
+            "image": "https://cdn.outfitbook.fr/24012-thickbox_default/mom-fit-jeans.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Levis Sky Blue Shirt",
+            "price": 145,
+            "category": "Jacket",
+            "description": "Collared overshirt with long sleeves and buttoned cuffs. Featuring a chest patch pocket and a zip-up front.",
+            "image": "https://cdn.shopify.com/s/files/1/0553/3774/6621/products/MC2066-GRY_1_800x.jpg?v=1650955532"
+        },
+        {
+            "id": 4,
+            "name": "Brown Denim Shirt Men",
+            "price": 367,
+            "category": "Jacket",
+            "description": "Straight,long sleeve denim jacket with a shirt collar and buttoned cuffs. Featuring a light fade effect,chest flap pockets,welt pockets at the hip and metal button fastening in the front.",
+            "image": "https://cdn.shopify.com/s/files/1/0046/5885/6006/products/WhatsAppImage2022-04-19at12.28.38PM_900x.jpg?v=1651504684"
+        },
+        {
+            "id": 5,
+            "name": "Green Denim T-shirt",
+            "price": 289,
+            "category": "Jacket",
+            "description": "Loose-fitting collared overshirt with long sleeves and buttoned cuffs. Featuring chest patch pockets,faded effect,patch appliqus on the sleeve and button-up fastening on the front.",
+            "image": "https://imagescdn.simons.ca/images/18273/207577/39/A1_2.jpg?__=10"
+        },
+        {
+            "id": 6,
+            "name": "Blue Jeans Shirt Men",
+            "price": 263,
+            "category": "Jacket",
+            "description": "Padded jacket with a shirt collar,long sleeves and buttoned cuffs. Featuring combined mesh lining with pocket detail,front welt pockets and front snap-button fastening.",
+            "image": "https://images.bewakoof.com/uploads/grid/app/types-of-shirts-for-men-bewakoof-blog-7-1610963790.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Dark Blue Men Jeans",
+            "price": 180,
+            "category": "Jacket",
+            "description": "Long sleeve lightweight jacket with collar. Featuring front patch pockets on chest and hips,contrasting topstitching and metal button fastening in the front.",
+            "image": "https://www.levis.co.nz/on/demandware.static/-/Sites-LeviAU-Library/default/dwe0252725/images/category/MenJeans/H221MensJeans-541AthleticTaper.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Red Snow Jacket Men",
+            "price": 309,
+            "category": "Jacket",
+            "description": "Long sleeve overshirt with a regular collar and buttoned cuffs. Featuring a chest patch pocket,welt pockets at the hip and snap-button fastening at the front hidden by a placket.",
+            "image": "https://cdn.shopify.com/s/files/1/0011/4992/7436/products/25-2_dfd56a28-45a8-4de8-96a0-410efa5df222_1024x1024.jpg?v=1646642226"
+        }
+    ]
+}

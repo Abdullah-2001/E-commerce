@@ -1,0 +1,16 @@
+.link-container a {
+    text-decoration: none;
+    color: black;
+    margin: 0 30px;
+    font-weight: 600;
+    font-family: "Nunito Sans", sans-serif;
+    transition: 0.4s;
+}
+
+.link-container a:hover {
+    color: rgb(200, 135, 12);
+}
+
+.activeClassName {
+    color: rgb(200, 135, 12);
+}

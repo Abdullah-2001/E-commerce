@@ -1,0 +1,16 @@
+.no-items {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 80vh;
+}
+
+.no-items :nth-child(1),
+.no-items :nth-child(2) {
+    margin: 10px;
+}
+
+.no-items :nth-child(2) {
+    font-size: 30px;
+}

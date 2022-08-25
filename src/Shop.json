@@ -1,0 +1,68 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Snow Camouflage Print Jacket",
+            "price": 290,
+            "category": "Jacket",
+            "description": "Jacket with an adjustable hood in the collar and long sleeves with elastic cuffs. Patch pockets with flaps and contrast taping at waist. Adjustable drawstring hem.",
+            "image": "https://www.rohnisch.com/on/demandware.static/-/Sites-rohnisch-catalog/default/dwb39d95bf/Hi-res/110306_S170_03.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Jacket With Pockets",
+            "price": 250,
+            "category": "Jacket",
+            "description": "Shirt-style jacket with long sleeves and buttoned cuffs. Features a faded effect on the seams,patch pockets with flap on the chest and hips and a frayed hem.",
+            "image": "http://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F09%2F9f%2F099f4c987b8930182c38a3d5ca1b75d0008273e1.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]"
+        },
+        {
+            "id": 3,
+            "name": "Pinstriped Denim Overshirt",
+            "price": 145,
+            "category": "Jacket",
+            "description": "Collared overshirt with long sleeves and buttoned cuffs. Featuring a chest patch pocket and a zip-up front.",
+            "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-720w,f_auto,q_auto:best/newscms/2021_35/1768115/lc_lauren_conrad_jean_jacket.PNG"
+        },
+        {
+            "id": 4,
+            "name": "Basic Denim Jacket",
+            "price": 367,
+            "category": "Jacket",
+            "description": "Straight,long sleeve denim jacket with a shirt collar and buttoned cuffs. Featuring a light fade effect,chest flap pockets,welt pockets at the hip and metal button fastening in the front.",
+            "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/c87f88fb-1c38-4e8b-82fe-c7cc0f2123a9/sportswear-woven-air-max-day-jacket-X7c87P.png"
+        },
+        {
+            "id": 5,
+            "name": "Patch Overshirt",
+            "price": 289,
+            "category": "Jacket",
+            "description": "Loose-fitting collared overshirt with long sleeves and buttoned cuffs. Featuring chest patch pockets,faded effect,patch appliqus on the sleeve and button-up fastening on the front.",
+            "image": "https://www.target.com.au/medias/static_content/product/images/full/66/18/A1486618.jpg?impolicy=product_portrait_hero"
+        },
+        {
+            "id": 6,
+            "name": "Coach Jacket",
+            "price": 263,
+            "category": "Jacket",
+            "description": "Padded jacket with a shirt collar,long sleeves and buttoned cuffs. Featuring combined mesh lining with pocket detail,front welt pockets and front snap-button fastening.",
+            "image": "https://img0.junaroad.com/uiproducts/16505762/zoom_0-1565771993.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Textured Worker Jacket",
+            "price": 180,
+            "category": "Jacket",
+            "description": "Long sleeve lightweight jacket with collar. Featuring front patch pockets on chest and hips,contrasting topstitching and metal button fastening in the front.",
+            "image": "https://cdn.shopify.com/s/files/1/0752/6435/products/4_5d77918b-6610-4bbb-b373-8b7af0698102.jpg?v=1637702351"
+        },
+        {
+            "id": 8,
+            "name": "Faux Suede Overshirt",
+            "price": 309,
+            "category": "Jacket",
+            "description": "Long sleeve overshirt with a regular collar and buttoned cuffs. Featuring a chest patch pocket,welt pockets at the hip and snap-button fastening at the front hidden by a placket.",
+            "image": "https://cdn.shopify.com/s/files/1/0011/4992/7436/products/25-2_dfd56a28-45a8-4de8-96a0-410efa5df222_1024x1024.jpg?v=1646642226"
+        }
+    ]
+}

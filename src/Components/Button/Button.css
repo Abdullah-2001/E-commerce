@@ -1,0 +1,79 @@
+.add-to-cart,
+.view-product {
+    border-radius: 6px;
+    width: 100%;
+    height: 40px;
+    border: none;
+    margin: 0 6px 0 0;
+    font-weight: 500;
+}
+
+.add-to-cart {
+    background-color: rgb(205, 150, 50);
+    color: rgb(255, 255, 255);
+}
+
+.view-product {
+    background-color: rgb(19, 19, 19);
+    color: rgb(255, 255, 255);
+}
+
+.limited-offer-btn {
+    border-radius: 100px;
+    width: 180px;
+    height: 50px;
+    font-size: 17px;
+    font-weight: 600;
+    border: none;
+    background-color: rgb(54, 93, 132);
+    color: whitesmoke;
+    margin-top: 20px;
+}
+
+.shop-now {
+    width: 120px;
+    height: 45px;
+    font-weight: 500;
+    border: none;
+    background-color: rgb(190, 154, 88);
+    color: white;
+    border-radius: 100px;
+}
+
+.view-blog {
+    border-radius: 6px;
+    width: 160px;
+    height: 45px;
+    font-size: 16px;
+    font-weight: 500;
+    border: none;
+    background-color: rgb(25, 25, 25);
+    color: white;
+}
+
+.sizes {
+    width: 40px;
+    height: 40px;
+    border: 1px solid rgb(235, 235, 235);
+    font-size: 18px;
+    margin: 0 20px 0 0;
+}
+
+.add-shop-card , .view-shop-card {
+    border-radius: 6px;
+    width: 150px;
+    height: 40px;
+    border: none;
+    margin: 0 6px 0 0;
+    font-weight: 500;
+}
+
+.add-shop-card {
+    background-color: rgb(205, 150, 50);
+    color: rgb(255, 255, 255);
+}
+
+.view-shop-card {
+    background-color: black;
+    color: rgb(255, 255, 255);
+}
