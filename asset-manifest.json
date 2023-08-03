@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Abdullah-2001/E-commerce/static/css/main.786d6f84.css",
+    "main.js": "/Abdullah-2001/E-commerce/static/js/main.40499bb5.js",
+    "static/media/blog1.jpg": "/Abdullah-2001/E-commerce/static/media/blog1.146a7d15412ae3e6468e.jpg",
+    "static/media/muslim-women2.jpg": "/Abdullah-2001/E-commerce/static/media/muslim-women2.bc57e9409ac0db93515b.jpg",
+    "static/media/blog3.jpg": "/Abdullah-2001/E-commerce/static/media/blog3.97edd87c0caad2946135.jpg",
+    "static/media/muslim-women.jpg": "/Abdullah-2001/E-commerce/static/media/muslim-women.45a325de6e519d2e5ee0.jpg",
+    "static/media/women3.jpg": "/Abdullah-2001/E-commerce/static/media/women3.0fb423783e0cb1305a0c.jpg",
+    "static/media/blog2.jpeg": "/Abdullah-2001/E-commerce/static/media/blog2.422b374287e569c57344.jpeg",
+    "static/media/women1.jpg": "/Abdullah-2001/E-commerce/static/media/women1.c91e8c0f02acc90df230.jpg",
+    "index.html": "/Abdullah-2001/E-commerce/index.html",
+    "main.786d6f84.css.map": "/Abdullah-2001/E-commerce/static/css/main.786d6f84.css.map",
+    "main.40499bb5.js.map": "/Abdullah-2001/E-commerce/static/js/main.40499bb5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.786d6f84.css",
+    "static/js/main.40499bb5.js"
+  ]
+}
