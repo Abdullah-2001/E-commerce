@@ -42,7 +42,7 @@ const Home = () => {
   };
 
   useEffect(() => {
-    let dest = new Date("aug 25, 2022 12:00:00").getTime();
+    let dest = new Date("aug 25, 2024 12:00:00").getTime();
     setInterval(() => {
       let now = new Date().getTime();
       let diff = dest - now;
@@ -141,7 +141,7 @@ const Home = () => {
           <Container style={{ position: "relative" }}>
             <Row style={{ justifyContent: "center" }}>
               <Col lg={6} style={{ padding: "0" }}>
-                <img className='trending-sale-img' src={MuslimWomen}></img>
+                <img className='trending-sale-img' src={Women2}></img>
                 <div className='title-container'>
                   <p>Woman Party Collection</p>
                   <p>#Trendy Arrived Item Off 50%</p>
@@ -149,7 +149,7 @@ const Home = () => {
                 </div>
               </Col>
               <Col lg={6} style={{ padding: "0" }}>
-                <img className='trending-sale-img' src={MuslimWomen2}></img>
+                <img className='trending-sale-img' src={Women1}></img>
                 <div className='title-container'>
                   <p>2022 Collection</p>
                   <p>New Stylish Trend Running Cloths</p>
@@ -168,13 +168,13 @@ const Home = () => {
           <Container>
             <Row style={{ justifyContent: "center" }}>
               <Col lg={4} style={{ padding: "0" }}>
-                <img className='blog-img' src={Blog1}></img>
+                <img className='blog-img' src={Women1}></img>
                 <div className='blog-news-container'>
                   <p>Spring summer fashion trends new high collection</p>
                 </div>
               </Col>
               <Col lg={4} style={{ padding: "0" }}>
-                <img className='blog-img' src={Blog2}></img>
+                <img className='blog-img' src={Women2}></img>
                 <div className='blog-news-container'>
                   <p>When it’s Winter outdoors gifts but you feel like ekocart</p>
                 </div>
